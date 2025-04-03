@@ -1,4 +1,4 @@
-# Redes - Usando Cisco Packet Tracer
+# Redes - Usando Cisco Packet Tracer Student Version 6.2.0.0052
 
 Este repositorio contiene actividades, proyectos y tareas realizadas en Cisco Packet Tracer, basadas en la materia de redes que curso en la universidad. Aquí documentaré mis aprendizajes, configuraciones y soluciones implementadas en diferentes escenarios de redes.
 
@@ -9,3 +9,6 @@ Este repositorio contiene actividades, proyectos y tareas realizadas en Cisco Pa
 
 ## Objetivo
 Este repositorio está destinado únicamente a fines académicos y de aprendizaje, sirviendo como un espacio para documentar mi progreso en redes y reforzar mis conocimientos en la materia.
+
+## Nota
+Si se usa una versión posterior es muy probable que los archivos no funcionen correctamente.
